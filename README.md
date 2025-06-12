@@ -28,3 +28,4 @@ Campaigns with high unsubscribe or bounce rates
 
 Opportunities to refine targeting and improve email deliverability
 
+Example : https://github.com/sumitdayma1/Email-Marketing-Dashboard/blob/main/report%201.png
